@@ -9,7 +9,7 @@
 
 Link do repositório GitHub: https://github.com/Marklleal/conectividade-rural-global-solution/
 
-Link do vídeo de demonstração
+Link do vídeo de demonstração: https://youtu.be/xpga0yfWEWw
 
 Obs.: Câmera não foi aberta por conta da limitação de hardware da máquina usada para gravação.
 Também foi usado filtro de ruído por motivo de não ser possível um ambiente quieto, tendo um pouco da degradação do áudio.
