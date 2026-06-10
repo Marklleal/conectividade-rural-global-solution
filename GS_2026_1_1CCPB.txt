@@ -1,0 +1,16 @@
+---
+
+## Integrantes
+
+- **Mark Lima Leal** — RM 566760 — Turma 1CCPB
+- **Pedro Ivson Falcão de Leucas** — RM 568522 — Turma 1CCPB
+
+**Modalidade:** Dupla
+
+Link do repositório GitHub: https://github.com/Marklleal/conectividade-rural-global-solution/
+
+Link do vídeo de demonstração
+
+Obs.: Câmera não foi aberta por conta da limitação de hardware da máquina usada para gravação.
+Também foi usado filtro de ruído por motivo de não ser possível um ambiente quieto, tendo um pouco da degradação do áudio.
+---
