@@ -153,31 +153,21 @@ A IA não substitui essa decisão. Ela recebe os dados já avaliados pelo códig
 
 ## Proposta de valor e modelo de negócio
 
-A Global Solution 2026.1 pede que o grupo articule claramente quem se beneficia na Terra e quem paga pela solução. 
-
 ### 1. Qual problema real terrestre esta missão resolve?
 
-O projeto responde ao problema da instabilidade e baixa visibilidade operacional em enlaces de conectividade rural via satélite. Em regiões sem fibra, uma falha de comunicação pode interromper aulas remotas, consultas médicas e atividades econômicas locais.
+A ConnectSat resolve o problema da baixa visibilidade operacional sobre falhas de conectividade rural via satélite em regiões sem fibra óptica. Quando o enlace degrada, escolas rurais perdem estabilidade para aulas remotas, postos de saúde sofrem com teleconsultas interrompidas e pequenos negócios locais ficam sem acesso confiável a serviços digitais.
 
 ### 2. Quem paga pela solução?
 
-O modelo mais plausível é **híbrido**:
-- setor público, em programas de inclusão digital, educação conectada e saúde remota;
-- setor privado, por operadoras, integradoras e provedores de telecomunicação satelital.
+O modelo mais plausível é híbrido. A solução pode ser contratada por operadoras e integradoras de conectividade via satélite, além do setor público em programas de inclusão digital, conectividade escolar e telemedicina em áreas remotas.
 
-### 3. Qual métrica de impacto concreto?
+### 3. Qual métrica concreta de impacto anual?
 
-Uma operação estável por 1 ano pode ser associada, por exemplo, a:
-- dezenas ou centenas de escolas rurais com conectividade contínua;
-- postos de saúde remotos com teleatendimento confiável;
-- pequenos negócios locais mantendo operação digital básica sem dependência de infraestrutura terrestre cara.
+Uma métrica plausível de impacto anual é: **100 escolas rurais, 20 postos de saúde remotos e 300 pequenos negócios atendidos com maior continuidade operacional de conectividade**. Isso representa menos indisponibilidade, resposta mais rápida a incidentes e melhor priorização de manutenção em áreas onde a internet satelital é infraestrutura crítica.
 
-### 4. Qual modelo de negócio?
+### 4. Qual modelo de negócio sustenta a operação ConnectSat?
 
-O modelo pode ser descrito como:
-- **monitoramento operacional como serviço** para operadoras;
-- **plataforma de observabilidade + IA explicativa** para conectividade rural;
-- contratos B2B/B2G com operadoras, governo e programas públicos de inclusão digital.
+O modelo principal é **monitoramento operacional como serviço**, com cobrança recorrente para operadoras, integradoras ou programas públicos que precisam acompanhar a saúde da missão e entender o impacto do serviço em solo. Na prática, a ConnectSat funciona como uma plataforma de observabilidade operacional com camada de IA explicativa para redes de conectividade rural via satélite.
 
 ---
 
