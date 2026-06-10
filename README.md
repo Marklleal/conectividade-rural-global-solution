@@ -6,7 +6,7 @@ Sistema de monitoramento operacional para a trilha **ConnectSat** da Global Solu
 
 ## Vídeo de demonstração
 
-[![Assistir demonstração no YouTube](https://img.youtube.com/vi/SEU_VIDEO_AQUI/0.jpg)](https://www.youtube.com/watch?v=SEU_VIDEO_AQUI)
+[![Assistir demonstração no YouTube](https://img.youtube.com/vi/SEU_VIDEO_AQUI/xpga0yfWEWw.jpg)](https://youtu.be/xpga0yfWEWw)
 
 ---
 
